@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/sohilgupta123"><img src="https://api.daily.dev/devcards/4055b2f8b0e8494db4c4e90248ee068f.png?r=eaz" width="400" alt="Sohil Gupta's Dev Card"/></a>
+<a href="https://app.daily.dev/sohilgupta123"><img src="https://api.daily.dev/devcards/4055b2f8b0e8494db4c4e90248ee068f.png?r=hmo" width="400" alt="Sohil Gupta's Dev Card"/></a>
 
 - 🔭 I’m currently working on ...
 <--
